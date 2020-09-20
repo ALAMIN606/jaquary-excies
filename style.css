@@ -1,0 +1,44 @@
+.box1{
+    width:100px;
+    height: 100px;
+    background: blue;
+    margin-top: 40px;
+    display: none;
+}
+.box2{
+    width:100px;
+    height: 100px;
+    background: green;
+    margin-top: 40px;
+    display: none;
+}
+.box3{
+    width:100px;
+    height: 100px;
+    background: black;
+    margin-top: 40px;
+    display: none;
+}
+
+
+.lorem{
+  width: 300px;
+    background: #333;
+    color: #fff;
+    margin: 0px auto;
+    text-align: center;
+    padding: 10px;
+    font-size: 25px; 
+}
+
+.lorem1{
+  width: 300px;
+    background: #000;
+    color: #fff;
+    margin: 0px auto;
+    text-align: center;
+    padding: 10px;
+    font-size: 16px; 
+    display: none;
+}
+
